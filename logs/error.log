@@ -1,0 +1,73 @@
+[31merror[39m | 10-Jul-2022 12:54:25 | Error de registro
+[31merror[39m | 10-Jul-2022 12:56:02 | Error de registro
+[31merror[39m | 10-Jul-2022 13:04:08 | Error de registro
+[31merror[39m | 10-Jul-2022 21:47:04 | Error de registro
+[31merror[39m | 10-Jul-2022 21:48:02 | Error de registro
+[31merror[39m | 10-Jul-2022 21:56:55 | Error de registro
+[31merror[39m | 10-Jul-2022 21:57:14 | Error de registro
+[31merror[39m | 10-Jul-2022 21:57:24 | Error de registro
+[31merror[39m | 10-Jul-2022 21:57:45 | Error de registro
+[31merror[39m | 10-Jul-2022 21:59:11 | Error de registro
+[31merror[39m | 10-Jul-2022 22:02:02 | Error de registro
+[31merror[39m | 10-Jul-2022 22:03:53 | Error de registro
+[31merror[39m | 10-Jul-2022 22:11:16 | Error de registro
+[31merror[39m | 10-Jul-2022 22:11:32 | Error de registro
+[31merror[39m | 10-Jul-2022 22:16:15 | Error de registro
+[31merror[39m | 10-Jul-2022 22:16:35 | Error de registro
+[31merror[39m | 10-Jul-2022 22:18:49 | Error de registro
+[31merror[39m | 10-Jul-2022 22:25:26 | Error de registro
+[31merror[39m | 10-Jul-2022 22:26:10 | Error de registro
+[31merror[39m | 10-Jul-2022 22:36:49 | Error de registro
+[31merror[39m | 10-Jul-2022 22:37:04 | Error de registro
+[31merror[39m | 10-Jul-2022 22:37:47 | Error de registro
+[31merror[39m | 10-Jul-2022 22:38:08 | Error de registro
+[31merror[39m | 10-Jul-2022 22:45:31 | Error de registro
+[31merror[39m | 10-Jul-2022 22:47:28 | Error de registro
+[31merror[39m | 10-Jul-2022 22:54:10 | Error de registro
+[31merror[39m | 10-Jul-2022 22:54:44 | Error de registro
+[31merror[39m | 10-Jul-2022 23:02:07 | Error de registro
+[31merror[39m | 10-Jul-2022 23:03:12 | Error de registro
+[31merror[39m | 10-Jul-2022 23:11:10 | user validation failed: adress: Path `adress` is required., cellphone: Path `cellphone` is required., age: Path `age` is required., surname: Path `surname` is required., name: Path `name` is required.
+[31merror[39m | 10-Jul-2022 23:12:14 | El usuario ya existe
+[31merror[39m | 10-Jul-2022 23:12:14 | Error de registro
+[31merror[39m | 10-Jul-2022 23:16:09 | El usuario ya existe
+[31merror[39m | 10-Jul-2022 23:16:09 | Error de registro
+[31merror[39m | 10-Jul-2022 23:18:34 | user validation failed: adress: Path `adress` is required., cellphone: Path `cellphone` is required., age: Path `age` is required., surname: Path `surname` is required., name: Path `name` is required.
+[31merror[39m | 11-Jul-2022 00:25:56 | El usuario ya existe
+[31merror[39m | 11-Jul-2022 00:25:56 | Error de registro
+[31merror[39m | 11-Jul-2022 00:35:37 | El usuario ya existe
+[31merror[39m | 11-Jul-2022 00:35:37 | Error de registro
+[31merror[39m | 11-Jul-2022 00:44:52 | user validation failed: cart: Cannot read properties of undefined (reading '_id')
+[31merror[39m | 11-Jul-2022 01:13:08 | user validation failed: cart: `Model.create()` cannot run without a model as `this`. Make sure you are not calling `new Model.create()`
+[31merror[39m | 11-Jul-2022 01:13:46 | user validation failed: cart: `Model.create()` cannot run without a model as `this`. Make sure you are not calling `new Model.create()`
+[31merror[39m | 11-Jul-2022 01:18:30 | user validation failed: cart: Cast to ObjectId failed for value "Promise { <pending> }" (type Promise) at path "cart" because of "BSONTypeError"
+[31merror[39m | 11-Jul-2022 01:27:16 | user validation failed: cart: carts is not defined
+[31merror[39m | 11-Jul-2022 14:55:17 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:19:44 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:20:56 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:23:55 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:34:49 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:45:41 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:53:53 | No estas autorizado
+[31merror[39m | 11-Jul-2022 15:55:26 | No estas autorizado
+[31merror[39m | 11-Jul-2022 16:08:21 | El usuario ya existe
+[31merror[39m | 11-Jul-2022 16:08:21 | Error de registro
+[31merror[39m | 11-Jul-2022 17:28:23 | No estas autorizado
+[31merror[39m | 11-Jul-2022 17:30:45 | No estas autorizado
+[31merror[39m | 11-Jul-2022 17:35:05 | No estas autorizado
+[31merror[39m | 11-Jul-2022 19:17:26 | carts validation failed: product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 19:17:49 | carts validation failed: product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 19:20:10 | carts validation failed: product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 19:37:55 | No estas autorizado
+[31merror[39m | 11-Jul-2022 19:47:11 | carts validation failed: product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 20:23:17 | carts validation failed: productId: Path `productId` is required., product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 20:24:16 | carts validation failed: productId: Path `productId` is required., product.price: Path `product.price` is required., product.stock: Path `product.stock` is required., product.name: Path `product.name` is required.
+[31merror[39m | 11-Jul-2022 20:25:20 | carts validation failed: productId: Path `productId` is required.
+[31merror[39m | 11-Jul-2022 20:26:01 | carts validation failed: productId: Path `productId` is required.
+[31merror[39m | 11-Jul-2022 20:28:58 | Error de registro
+[31merror[39m | 11-Jul-2022 20:44:18 | carts validation failed: productId.price: Path `productId.price` is required., productId.stock: Path `productId.stock` is required., productId.name: Path `productId.name` is required.
+[31merror[39m | 11-Jul-2022 20:45:26 | No estas autorizado
+[31merror[39m | 11-Jul-2022 20:52:02 | El usuario ya existe
+[31merror[39m | 11-Jul-2022 20:52:02 | Error de registro
+[31merror[39m | 11-Jul-2022 20:59:07 | El usuario ya existe
+[31merror[39m | 11-Jul-2022 20:59:07 | Error de registro
